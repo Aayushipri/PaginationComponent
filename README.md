@@ -1,0 +1,2 @@
+# PaginationComponent
+Implementing pagination component
